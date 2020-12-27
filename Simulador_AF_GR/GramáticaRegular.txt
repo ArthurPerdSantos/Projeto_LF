@@ -1,0 +1,5 @@
+G = ({S, A}, {a, b, c}, P, S)
+P = 
+S->aS
+S->bA
+A->c
